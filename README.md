@@ -26,3 +26,7 @@
 **[Практическое занятие №2](https://github.com/justalgit/MachineLearningLabs/blob/master/mlcourse.ai/lesson2_practice_visual_titanic.ipynb)**
 
 **[Практическое занятие №3](https://github.com/justalgit/MachineLearningLabs/blob/master/mlcourse.ai/lesson3_practice_trees_titanic.ipynb)**
+
+### Прочие домашние задания ###
+
+**[Алгоритмы обучения на ассоциативных правилах](https://github.com/justalgit/MachineLearningLabs/blob/master/ARL/ARL.ipynb)**
